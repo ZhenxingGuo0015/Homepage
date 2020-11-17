@@ -1,17 +1,14 @@
-## Welcome to GitHub Pages
+## Webpage of Zhenxing Guo
 
-You can use the [editor on GitHub](https://github.com/ZhenxingGuo0015/ZhenxingGuo.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am now a fourth year Ph.D. student of the Department of Biostatistics and Bioformatics at Emory University. My research interests focus on statistical modeling on large scale genomic/omic data. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education
+
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
+# fff
 ## Header 2
 ### Header 3
 
