@@ -1,4 +1,4 @@
-## Zhenxing Guo
+# Short Biography
 
 I am now a fourth year Ph.D. student of the Department of Biostatistics and Bioformatics at Emory University. My research interests focus on statistical modeling on large scale genomic/omic data. 
 
