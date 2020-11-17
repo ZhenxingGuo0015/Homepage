@@ -6,6 +6,8 @@ I am now a fourth year Ph.D. student of the Department of Biostatistics and Biof
 
 ## Education
 * August 2017 - May 2022 (expected) 
+Ph.D. Candidate in Mathematics, University of Chinese Academy of Sciences, Beijing, China
+Advisor: Professor Feimin Huang
 
 ```markdown
 * August 2017 - May 2022 (expected) 
