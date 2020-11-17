@@ -74,7 +74,7 @@ Bioinformatics, Atlanta, GA \
  
 ## Professional Membership  
 American Statistical Association (ASA) \
-International Chinese Statistical Association (ICSA)\
+International Chinese Statistical Association (ICSA)
 
 ## Computational Skills
 * Programming Languages: R, SAS, Matlab 
