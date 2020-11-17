@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Short Biography
 
 I am now a fourth year Ph.D. student of the Department of Biostatistics and Bioformatics at Emory University. My research interests focus on statistical modeling on large scale genomic/omic data. 
@@ -27,6 +31,11 @@ Hunan University, Hunan, China\
 
 ## Publication
 
+* **Z. Guo**, S Zhang. Sparse deep nonnegative matrix factorization. Big Data Mining and Analytics, (2019), 3(1):13-28.    
+ [[journal]]( https://ieeexplore.ieee.org/document/8935092) 
+   
+   https://iopscience.iop.org/article/10.1088/1361-6544/ab31ce
+   
 ```markdown
 * August 2017 - May 2022 (expected) 
 **Bold** and _Italic_ and `Code` text
