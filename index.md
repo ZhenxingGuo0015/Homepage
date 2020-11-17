@@ -77,7 +77,7 @@ American Statistical Association (ASA) \
 International Chinese Statistical Association (ICSA)\
 
 ## Computational Skills
-* Programming Languages: R, SAS, Matlab \
+* Programming Languages: R, SAS, Matlab 
 * Operating Systems: Windows, Unix
 
 
