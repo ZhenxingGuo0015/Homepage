@@ -10,7 +10,7 @@ Ph.D. student \
 Department of Biostatistics and Bioinformatics\
 Emory University\
 Atlanta, GA 30329, USA\
-**Advisor: Professor Hao Wu
+**Advisor: Professor Hao Wu**
 
 ```markdown
 * August 2017 - May 2022 (expected) 
