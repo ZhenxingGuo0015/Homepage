@@ -13,15 +13,15 @@ Atlanta, GA 30329, USA\
 **Advisor: Professor Hao Wu**
 
 * Sept 2014 - July 2017 
-_MS of Science_\
+_M.S. of Science_\
 Academy of Mathematics and Systems Science\
 Chinese Academy of Sciences\
 Bejing 100190, China\
 **Advisor: Junhua Zhang**
 
 
-* Sept 2010 - July 2014 
-_BS in Mathematics and Applied Mathematics_\
+* Sept 2010 - July 2014 \
+_B.S. in Mathematics and Applied Mathematics_\
 Hunan University, Hunan, China\
 
 
