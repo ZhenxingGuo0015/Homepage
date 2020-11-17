@@ -4,20 +4,11 @@ I am now a fourth year Ph.D. student of the Department of Biostatistics and Biof
 
 
 
-### Education
+## Education
 
 
 ```markdown
-# fff
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
+* August 2017 - May 2022 (expected) 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
