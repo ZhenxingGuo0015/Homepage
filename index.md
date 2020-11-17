@@ -26,7 +26,7 @@ Bejing 100190, China\
 
 * Sept 2010 - July 2014 \
 _B.S. in Mathematics and Applied Mathematics_\
-Hunan University, Hunan, China\
+Hunan University, Hunan, China
 
 
 ## Publications
