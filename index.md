@@ -39,3 +39,7 @@ Hunan University, Hunan, China
 * **Z Guo**, Y Cui, X Shi, JA Birchler, I Albizua, SL Sherman, ZS Qin, T Ji. An empirical bayesian approach for testing gene expression fold change and its application in detecting global dosage effects. _NAR Genomics and Bioinformatics_, (2020), 2(3):lqaa072. [[Link]]( https://academic.oup.com/nargab/article/2/3/lqaa072/5908375)
 
 
+## SoftWare
+
+* TRES: Toolbox for mRNA Epigenetics Sequencing analysis\
+Link: https://github.com/ZhenxingGuo0015/TRES
