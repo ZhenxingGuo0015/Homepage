@@ -43,3 +43,23 @@ Hunan University, Hunan, China
 
 * TRES: Toolbox for mRNA Epigenetics Sequencing analysis\
 Link: https://github.com/ZhenxingGuo0015/TRES
+
+## Teaching experience
+* Teaching assistant. Fall 2020: BIOS 731 Advanced statistical computing.
+* Teaching assistant. Spring 2020: BIOS 545 R programming.
+* Teaching assistant. Fall 2019: BIOS 555 High-throughput data analysis using R and Bioconductor.
+* Teaching assistant. Spring 2019: BIOS 591P Lab “Biostatistics Methods II”.
+* Teaching assistant. Fall 2018: BIOS 500/003: Statistical Methods I Group C.
+
+## Work experience
+ * June 2020 - August 2020, Technical Intern at Bristol Myers Squibb \
+ - Mentors: Frank Shen and Rong Liu \
+ - Project(Research based): Develop Bayesian methods for 
+ 
+ * Oct 2018 – May 2020, Research assistant, Emory University, Department of Biostatistics and 
+Bioinformatics, Atlanta, GA \
+— Advisor: Hao Wu \
+— Research projects on high-throughput genomic data
+
+
+
