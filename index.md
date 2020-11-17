@@ -61,7 +61,7 @@ Bioinformatics, Atlanta, GA \
  Advisor: Hao Wu \
  Research projects on high-throughput genomic data 
  
- * Professional Membership  
+ ## Professional Membership  
 American Statistical Association (ASA) \
 International Chinese Statistical Association (ICSA)\
 
