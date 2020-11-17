@@ -5,8 +5,8 @@ I am now a fourth year Ph.D. student of the Department of Biostatistics and Biof
 
 
 ## Education
-* August 2017 - May 2022 (expected) \
-Ph.D. student \
+* August 2017 - May 2022 (expected) \\
+Ph.D. student \\
 Department of Biostatistics and Bioinformatics\
 Emory University\
 Atlanta, GA 30329, USA\
