@@ -37,14 +37,8 @@ Hunan University, Hunan, China\
 * Z Li, **Z Guo**, Y Cheng, P Jin, H Wu. Robust partial reference-free cell composition estimation from tissue expression. Bioinformatics, (2020), 36(11): 3431-3438. [[journal]]( https://academic.oup.com/bioinformatics/article/36/11/3431/5804977)
   
 * **Z Guo**, Y Cui, X Shi, JA Birchler, I Albizua, SL Sherman, ZS Qin, T Ji. An empirical bayesian approach for testing gene expression fold change and its application in detecting global dosage effects. NAR Genomics and Bioinformatics, (2020), 2(3):lqaa072. [[journal]]( https://academic.oup.com/nargab/article/2/3/lqaa072/5908375)
-```markdown
-* August 2017 - May 2022 (expected) 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
