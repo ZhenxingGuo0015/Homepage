@@ -34,8 +34,9 @@ Hunan University, Hunan, China\
 * **Z. Guo**, S Zhang. Sparse deep nonnegative matrix factorization. Big Data Mining and Analytics, (2019), 3(1):13-28.    
  [[journal]]( https://ieeexplore.ieee.org/document/8935092) 
    
-   https://iopscience.iop.org/article/10.1088/1361-6544/ab31ce
-   
+* Z Li, **Z Guo**, Y Cheng, P Jin, H Wu. Robust partial reference-free cell composition estimation from tissue expression. Bioinformatics, (2020), 36(11): 3431-3438. [[journal]]( https://academic.oup.com/bioinformatics/article/36/11/3431/5804977)
+  
+* **Z Guo**, Y Cui, X Shi, JA Birchler, I Albizua, SL Sherman, ZS Qin, T Ji. An empirical bayesian approach for testing gene expression fold change and its application in detecting global dosage effects. NAR Genomics and Bioinformatics, (2020), 2(3):lqaa072. [[journal]]( https://academic.oup.com/nargab/article/2/3/lqaa072/5908375)
 ```markdown
 * August 2017 - May 2022 (expected) 
 **Bold** and _Italic_ and `Code` text
