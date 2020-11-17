@@ -17,7 +17,7 @@ _M.S. of Science_\
 Academy of Mathematics and Systems Science\
 Chinese Academy of Sciences\
 Bejing 100190, China\
-**Advisor: Shihua Zhang**
+**Advisor: Professor Shihua Zhang**
 
 
 * Sept 2010 - July 2014 \
