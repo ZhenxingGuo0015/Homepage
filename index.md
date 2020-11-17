@@ -17,7 +17,7 @@ Atlanta, GA 30329, USA\
 **Advisor: Professor Hao Wu**
 
 * Sept 2014 - July 2017 \
-_M.S. in Operational Research\
+_M.S. in Operational Research_\
 Academy of Mathematics and Systems Science\
 Chinese Academy of Sciences\
 Bejing 100190, China\
