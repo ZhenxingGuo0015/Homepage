@@ -12,6 +12,19 @@ Emory University\
 Atlanta, GA 30329, USA\
 **Advisor: Professor Hao Wu**
 
+* Sept 2014 - July 2017 
+_MS of Science_\
+Academy of Mathematics and Systems Science\
+Chinese Academy of Sciences\
+Bejing 100190, China\
+**Advisor: Junhua Zhang**
+
+
+* Sept 2010 - July 2014 
+_BS in Mathematics and Applied Mathematics_\
+Hunan University, Hunan, China\
+
+
 ```markdown
 * August 2017 - May 2022 (expected) 
 **Bold** and _Italic_ and `Code` text
