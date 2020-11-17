@@ -29,7 +29,7 @@ _B.S. in Mathematics and Applied Mathematics_\
 Hunan University, Hunan, China\
 
 
-## Publication
+## Publications
 
 * **Z. Guo**, S Zhang. Sparse deep nonnegative matrix factorization. _Big Data Mining and Analytics_, (2019), 3(1):13-28.    
  [[journal]]( https://ieeexplore.ieee.org/document/8935092) 
