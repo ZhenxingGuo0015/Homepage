@@ -54,12 +54,12 @@ Link: https://github.com/ZhenxingGuo0015/TRES
 ## Work experience
  * June 2020 - August 2020, Technical Intern at Bristol Myers Squibb \
  - Mentors: Frank Shen and Rong Liu \
- - Project(Research based): Develop Bayesian methods for 
+ - Project(Research based): Bayesian approaches on borrowing historical data in early clinical trial development.
  
  * Oct 2018 – May 2020, Research assistant, Emory University, Department of Biostatistics and 
 Bioinformatics, Atlanta, GA \
 — Advisor: Hao Wu \
-— Research projects on high-throughput genomic data
+— Research projects on high-throughput genomic data 
 
 
 
