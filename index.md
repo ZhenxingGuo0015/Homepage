@@ -42,6 +42,7 @@ Hunan University, Hunan, China
 * **Z. Guo**, Andrew M Shafik, Peng Jin, Zhijin Wu, Hao Wu, Detecting m6A methylation regions from Methylated RNA Immunoprecipitation Sequencing. _Bioinformatics_, (2021). [[link]](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab181/6173980)
 
 ## Honors and Awards
+* 2021 ASA Section on Statistics in Genomics and Genetics (SGG) Student Paper Award
 * SAS Certified Base Programmer for SAS 9, 2017.
 * Junior Analyst awarded by Beijing Genomics Institute (BGI) in the year of 2015.
 * Outstanding Graduate, 2014.
