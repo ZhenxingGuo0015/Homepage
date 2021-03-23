@@ -38,6 +38,7 @@ Hunan University, Hunan, China
   
 * **Z Guo**, Y Cui, X Shi, JA Birchler, I Albizua, SL Sherman, ZS Qin, T Ji. An empirical bayesian approach for testing gene expression fold change and its application in detecting global dosage effects. _NAR Genomics and Bioinformatics_, (2020), 2(3):lqaa072. [[Link]]( https://academic.oup.com/nargab/article/2/3/lqaa072/5908375)
 
+* A. M. Shafik, F. Zhang, **Z. Guo**, Q. Dai, K. Pajdzik, Y. Li, Y. Kang, B. Yao, H. Wu, C. He, E. G. Allen, R. Duan, P. Jin. N6-methyladenosine dynamics in neurodevelopment and aging, and its potential role in Alzheimer’s disease. _Genome Biology_, (2021), 22(1):1-19. [[link]](https://link.springer.com/article/10.1186/s13059-020-02249-z)
 
 ## Honors and Awards
 * SAS Certified Base Programmer for SAS 9, 2017.
